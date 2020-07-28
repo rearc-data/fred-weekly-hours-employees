@@ -20,7 +20,7 @@ This resource is presented in both the XLS and CSV formats. The included dataset
 
 `DATE, AWHAE`
 
-The `AWHAE` column represents the percentage of the leading index at the time of the corresponding `DATE`.  
+The `AWHAE` column represents the index at the time of the corresponding `DATE`.  
 
 
 ## More Information
