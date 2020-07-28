@@ -1,0 +1,1 @@
+This release contains information on indexes of aggregate weekly hours for employees. The indexes are calculated by dividing the current month's aggregate hours by the average of the 12 monthly figures.
