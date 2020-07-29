@@ -5,7 +5,7 @@
 Indexes of Aggregate Weekly Hours of All Employees, Total Private | FRED
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-efi2i5rseho4w](https://aws.amazon.com/marketplace/pp/prodview-efi2i5rseho4w).
 
 ## Main Overview
 
